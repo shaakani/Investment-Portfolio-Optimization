@@ -1,4 +1,3 @@
-# Investment-Portfolio-Optimization
 # 📈 Investment Portfolio Optimization with ESG Factors using Machine Learning
 
 **Author**: Akansha Sharma  
